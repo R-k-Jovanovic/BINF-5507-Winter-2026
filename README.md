@@ -4,3 +4,4 @@ Lab code for Winter 2026 term for ML/AI in Clinical Bioinformatics (BINF5507).
 Lab 2: Data Cleaning and Preprocessing
 
 I am making changes to my README.md!
+New folder Labs for lab stuff. Test python file. 
