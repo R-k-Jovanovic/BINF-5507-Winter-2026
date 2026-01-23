@@ -5,3 +5,6 @@ Lab 2: Data Cleaning and Preprocessing
 
 I am making changes to my README.md!
 New folder Labs for lab stuff. Test python file. 
+
+Lab 2 materials added.
+Changes in the lab2 notebook made in lab.
